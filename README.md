@@ -1,4 +1,7 @@
-# MNEMOS
+<div align=center>
+  <h1>MNEMOS</h1>
+</div>
+
 ### Semantic Memory Recomposition System
 
 <p align="center">
