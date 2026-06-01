@@ -5,11 +5,11 @@
 ### Semantic Memory Recomposition System
 
 <p align="center">
-  <img src="https://img.shields.io/badge/status-experimental-black?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/type-semantic%20memory-darkred?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/core-pattern%20generation-black?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/state-research-darkred?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/license-MIT-white?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/status-experimental-00F0FF?style=for-the-badge&labelColor=111111" />
+  <img src="https://img.shields.io/badge/type-semantic%20memory-B026FF?style=for-the-badge&labelColor=111111" />
+  <img src="https://img.shields.io/badge/core-pattern%20generation-00F0FF?style=for-the-badge&labelColor=111111" />
+  <img src="https://img.shields.io/badge/state-research-B026FF?style=for-the-badge&labelColor=111111" />
+  <img src="https://img.shields.io/badge/license-MIT-00FF88?style=for-the-badge&labelColor=111111" />
 </p>
 
 ---
