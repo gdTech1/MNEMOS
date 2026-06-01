@@ -64,7 +64,7 @@ OUTPUT
 ```
 <div align=center>
   <h2>Status</h2>
+  <p>Early experimental development.
+</p>
 </div>
-
-Early experimental development.
 
