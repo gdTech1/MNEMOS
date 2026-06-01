@@ -15,8 +15,9 @@
 </p>
 
 ---
-
-## Overview
+<div align=center>
+  <h2>Overview</h2>
+</div>
 
 MNEMOS is an experimental semantic memory system designed to explore contextual association, memory recomposition and emergent pattern generation through vector representations and clustering techniques.
 
@@ -28,8 +29,9 @@ The project focuses on:
 - cognitive-inspired systems
 
 ---
-
-## Core Concept
+<div align=center>
+  <h2>Core Concept</h2>
+</div>
 
 Instead of functioning as a traditional AI assistant, MNEMOS operates as a semantic reinterpretation engine.
 
@@ -41,8 +43,9 @@ The system:
 - produces emergent interpretative outputs
 
 ---
-
-## System Flow
+<div align=center>
+  <h2>System Flow</h2>
+</div>
 
 ```text
 INPUT
@@ -59,8 +62,9 @@ INTERPRETATION GENERATION
   ↓
 OUTPUT
 ```
-
-## Status
+<div align=center>
+  <h2>Status</h2>
+</div>
 
 Early experimental development.
 
