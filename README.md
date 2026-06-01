@@ -2,7 +2,9 @@
   <h1>MNEMOS</h1>
 </div>
 
-### Semantic Memory Recomposition System
+<div align=center>
+  <h3>Semantic Memory Recomposition System</h3>
+</div>
 
 <p align="center">
   <img src="https://img.shields.io/badge/status-experimental-00F0FF?style=for-the-badge&labelColor=111111" />
