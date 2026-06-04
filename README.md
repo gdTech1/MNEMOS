@@ -18,11 +18,6 @@
 <div align=center>
   <h2>Overview</h2>
 </div>
-![Tests](https://github.com/gdTech1/MNEMOS/actions/workflows/tests.yml/badge.svg)
-
-![Code Quality](https://github.com/gdTech1/MNEMOS/actions/workflows/code-quality.yml/badge.svg)
-
-![Structure](https://github.com/gdTech1/MNEMOS/actions/workflows/project-structure.yml/badge.svg)
 
 MNEMOS is an experimental semantic memory system designed to explore contextual association, memory recomposition and emergent pattern generation through vector representations and clustering techniques.
 
