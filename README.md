@@ -4,9 +4,7 @@
 
 <br>
 
-```txt
 SEMANTIC MEMORY RECOMPOSITION SYSTEM
-```
 
 <br>
 
@@ -26,17 +24,27 @@ SEMANTIC MEMORY RECOMPOSITION SYSTEM
 
 </div>
 
----
 
-# ◢ OVERVIEW
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=D90429&height=4&section=footer"/>
+
+</div>
+
+## ◢ OVERVIEW
 
 MNEMOS is an experimental cognitive computing project focused on semantic memory reconstruction through embeddings, contextual associations and emergent pattern generation.
 
 Rather than functioning as a traditional conversational assistant, the system explores how information can be reorganized, connected and reinterpreted through vector-space representations.
 
----
 
-# ◢ RESEARCH OBJECTIVES
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=D90429&height=4&section=footer"/>
+
+</div>
+
+## ◢ RESEARCH OBJECTIVES
 
 ```txt
 PRIMARY DIRECTIVE
@@ -60,9 +68,14 @@ The project explores concepts from:
 * Cognitive Architectures
 * Emergent Intelligence
 
----
 
-# ◢ CORE ARCHITECTURE
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=D90429&height=4&section=footer"/>
+
+</div>
+
+## ◢ CORE ARCHITECTURE
 
 ```txt
 MEMORY INPUT
@@ -89,9 +102,14 @@ INTERPRETATION ENGINE
 OUTPUT GENERATION
 ```
 
----
 
-# ◢ SYSTEM PRINCIPLES
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=D90429&height=4&section=footer"/>
+
+</div>
+
+## ◢ SYSTEM PRINCIPLES
 
 ```txt
 [01] MEMORY IS CONTEXTUAL
@@ -111,9 +129,14 @@ Patterns emerge from interconnected concepts.
 New meaning can emerge from recombination.
 ```
 
----
 
-# ◢ CURRENT STATUS
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=D90429&height=4&section=footer"/>
+
+</div>
+
+## ◢ CURRENT STATUS
 
 ```txt
 SYSTEM STATUS ............. ACTIVE
@@ -129,9 +152,14 @@ PATTERN ENGINE ............ PROTOTYPING
 DOCUMENTATION ............. ACTIVE
 ```
 
----
 
-# ◢ LONG-TERM VISION
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=D90429&height=4&section=footer"/>
+
+</div>
+
+## ◢ LONG-TERM VISION
 
 MNEMOS is an exploration of computational memory systems.
 
@@ -143,17 +171,20 @@ The long-term objective is to investigate architectures capable of:
 * Dynamic knowledge evolution
 * Cognitive-inspired reasoning
 
----
 
 <div align="center">
 
-```txt
+<img src="https://capsule-render.vercel.app/api?type=rect&color=D90429&height=4&section=footer"/>
+
+</div>
+
+<div align="center">
+
 TRANSMISSION LOG
 
 MEMORY IS NOT STORAGE.
 
 MEMORY IS RECONSTRUCTION.
-```
 
 </div>
 
