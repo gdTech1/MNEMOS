@@ -1,75 +1,197 @@
-<div align=center>
-  <h1>MNEMOS</h1>
-</div>
+<div align="center">
 
-<div align=center>
-  <h3>Semantic Memory Recomposition System</h3>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:050505,100:D90429&text=MNEMOS&fontColor=C0C0C0&fontSize=52"/>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/status-experimental-00F0FF?style=for-the-badge&labelColor=111111" />
-  <img src="https://img.shields.io/badge/type-semantic%20memory-B026FF?style=for-the-badge&labelColor=111111" />
-  <img src="https://img.shields.io/badge/core-pattern%20generation-00F0FF?style=for-the-badge&labelColor=111111" />
-  <img src="https://img.shields.io/badge/state-research-B026FF?style=for-the-badge&labelColor=111111" />
-  <img src="https://img.shields.io/badge/license-MIT-00FF88?style=for-the-badge&labelColor=111111" />
+<br>
+
+SEMANTIC MEMORY RECOMPOSITION SYSTEM
+
+<br>
+
+<p>
+
+<img src="https://img.shields.io/badge/STATUS-EXPERIMENTAL-D90429?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/DOMAIN-SEMANTIC_MEMORY-111111?style=for-the-badge&logoColor=C0C0C0"/>
+
+<img src="https://img.shields.io/badge/CORE-PATTERN_GENERATION-D90429?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/STATE-RESEARCH-111111?style=for-the-badge&logoColor=C0C0C0"/>
+
+<img src="https://img.shields.io/badge/LICENSE-MIT-D90429?style=for-the-badge"/>
+
 </p>
 
----
-<div align=center>
-  <h2>Overview</h2>
-</div>
-![Tests](https://github.com/gdTech1/MNEMOS/actions/workflows/tests.yml/badge.svg)
-
-![Code Quality](https://github.com/gdTech1/MNEMOS/actions/workflows/code-quality.yml/badge.svg)
-
-![Structure](https://github.com/gdTech1/MNEMOS/actions/workflows/project-structure.yml/badge.svg)
-
-MNEMOS is an experimental semantic memory system designed to explore contextual association, memory recomposition and emergent pattern generation through vector representations and clustering techniques.
-
-The project focuses on:
-- semantic memory
-- contextual analysis
-- vector embeddings
-- emergent associations
-- cognitive-inspired systems
-
----
-<div align=center>
-  <h2>Core Concept</h2>
 </div>
 
-Instead of functioning as a traditional AI assistant, MNEMOS operates as a semantic reinterpretation engine.
 
-The system:
-- stores contextual memories
-- generates semantic embeddings
-- identifies hidden relationships
-- recombines contextual information
-- produces emergent interpretative outputs
+<div align="center">
 
----
-<div align=center>
-  <h2>System Flow</h2>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=D90429&height=4&section=footer"/>
+
 </div>
 
-```text
-INPUT
-  ↓
-EMBEDDINGS
-  ↓
-VECTOR MEMORY
-  ↓
-SIMILARITY ANALYSIS
-  ↓
-CLUSTERING
-  ↓
-INTERPRETATION GENERATION
-  ↓
-OUTPUT
+## ◢ OVERVIEW
+
+MNEMOS is an experimental cognitive computing project focused on semantic memory reconstruction through embeddings, contextual associations and emergent pattern generation.
+
+Rather than functioning as a traditional conversational assistant, the system explores how information can be reorganized, connected and reinterpreted through vector-space representations.
+
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=D90429&height=4&section=footer"/>
+
+</div>
+
+## ◢ RESEARCH OBJECTIVES
+
+```txt
+PRIMARY DIRECTIVE
+
+Investigate how semantic memories can be:
+
+• Stored
+• Associated
+• Reconstructed
+• Reinterpreted
+• Expanded
 ```
-<div align=center>
-  <h2>Status</h2>
-  <p>Early experimental development.
-</p>
+
+The project explores concepts from:
+
+* Semantic Memory
+* Knowledge Representation
+* Vector Embeddings
+* Similarity Search
+* Clustering Systems
+* Cognitive Architectures
+* Emergent Intelligence
+
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=D90429&height=4&section=footer"/>
+
 </div>
 
+## ◢ CORE ARCHITECTURE
+
+```txt
+MEMORY INPUT
+      │
+      ▼
+EMBEDDING GENERATION
+      │
+      ▼
+VECTOR MEMORY SPACE
+      │
+      ▼
+SIMILARITY ANALYSIS
+      │
+      ▼
+SEMANTIC CLUSTERING
+      │
+      ▼
+PATTERN EXTRACTION
+      │
+      ▼
+INTERPRETATION ENGINE
+      │
+      ▼
+OUTPUT GENERATION
+```
+
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=D90429&height=4&section=footer"/>
+
+</div>
+
+## ◢ SYSTEM PRINCIPLES
+
+```txt
+[01] MEMORY IS CONTEXTUAL
+
+Information gains meaning through relationships.
+
+────────────────────────────────────────
+
+[02] KNOWLEDGE IS STRUCTURAL
+
+Patterns emerge from interconnected concepts.
+
+────────────────────────────────────────
+
+[03] INTERPRETATION IS GENERATIVE
+
+New meaning can emerge from recombination.
+```
+
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=D90429&height=4&section=footer"/>
+
+</div>
+
+## ◢ CURRENT STATUS
+
+```txt
+SYSTEM STATUS ............. ACTIVE
+
+RESEARCH STAGE ............ EARLY DEVELOPMENT
+
+EMBEDDING PIPELINE ........ IN PROGRESS
+
+MEMORY LAYER .............. IN DEVELOPMENT
+
+PATTERN ENGINE ............ PROTOTYPING
+
+DOCUMENTATION ............. ACTIVE
+```
+
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=D90429&height=4&section=footer"/>
+
+</div>
+
+## ◢ LONG-TERM VISION
+
+MNEMOS is an exploration of computational memory systems.
+
+The long-term objective is to investigate architectures capable of:
+
+* Persistent memory formation
+* Context reconstruction
+* Semantic abstraction
+* Dynamic knowledge evolution
+* Cognitive-inspired reasoning
+
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=D90429&height=4&section=footer"/>
+
+</div>
+
+<div align="center">
+
+TRANSMISSION LOG
+
+MEMORY IS NOT STORAGE.
+
+MEMORY IS RECONSTRUCTION.
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=D90429&height=4&section=footer"/>
+
+</div>
