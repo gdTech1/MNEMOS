@@ -1,0 +1,91 @@
+[build-system]
+requires = ["setuptools>=80.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "mnemos"
+version = "0.1.0"
+description = "A cognitive agent inspired by human memory, semantic association, and memory consolidation."
+readme = "README.md"
+requires-python = ">=3.11"
+
+authors = [
+    { name = "Giovanna" }
+]
+
+license = { text = "MIT" }
+
+keywords = [
+    "artificial-intelligence",
+    "cognitive-agent",
+    "memory",
+    "neuroscience",
+    "knowledge-graph",
+    "semantic-memory"
+]
+
+dependencies = [
+
+    # AI
+    "anthropic>=0.68.0",
+
+    # Data validation
+    "pydantic>=2.11.0",
+
+    # Embeddings
+    "sentence-transformers>=5.1.0",
+
+    # Vector database
+    "chromadb>=1.0.20",
+
+    # Graphs
+    "networkx>=3.5",
+
+    # Machine learning
+    "scikit-learn>=1.7.0",
+
+    # Web interface
+    "streamlit>=1.49.0",
+
+    # Graph visualization
+    "pyvis>=0.3.2",
+
+    # Data manipulation
+    "numpy>=2.3.0",
+    "pandas>=2.3.0"
+]
+
+[project.optional-dependencies]
+
+dev = [
+
+    # Testing
+    "pytest>=8.4.0",
+
+    # Code formatting
+    "black>=25.1.0",
+
+    # Import sorting
+    "isort>=6.0.0",
+
+    # Linting
+    "ruff>=0.12.0"
+]
+
+[tool.black]
+line-length = 88
+
+[tool.isort]
+profile = "black"
+
+[tool.pytest.ini_options]
+testpaths = [
+    "tests"
+]
+
+python_files = [
+    "test_*.py"
+]
+
+[tool.ruff]
+line-length = 88

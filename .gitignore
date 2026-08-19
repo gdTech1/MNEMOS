@@ -1,0 +1,50 @@
+# Python
+
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+
+.venv/
+venv/
+
+# IDE
+
+.vscode/
+.idea/
+
+# Testing
+
+.pytest_cache/
+
+# Ruff
+
+.ruff_cache/
+
+# Build
+
+build/
+dist/
+
+# Databases
+
+*.db
+*.sqlite3
+
+# ChromaDB
+
+chroma/
+
+# Jupyter
+
+.ipynb_checkpoints/
+
+# Streamlit
+
+.streamlit/secrets.toml
+
+# Operating system
+
+.DS_Store
+Thumbs.db
