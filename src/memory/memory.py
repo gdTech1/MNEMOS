@@ -95,14 +95,7 @@ class Memory(BaseModel):
     )
 
     @model_validator(mode="after")
-    def _validate_reviewed_at_not_before_created_at(self) -> "Memory":
-        """
-        Ensure temporal consistency between creation and review timestamps.
-
-        Raises:
-            ValueError: If `reviewed_at` is set and occurs before
-                `created_at`.
-        """
+    def _validate_reviewed_at_not_before_created_at(self):
         if self.reviewed_at is not None and self.reviewed_at < self.created_at:
             raise ValueError("reviewed_at cannot be earlier than created_at.")
         return self
