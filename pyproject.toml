@@ -10,7 +10,7 @@ readme = "README.md"
 requires-python = ">=3.11"
 
 authors = [
-    { name = "Giovanna" }
+    { name = "gdTech1" }
 ]
 
 license = { text = "MIT" }
@@ -25,9 +25,6 @@ keywords = [
 ]
 
 dependencies = [
-
-    # AI
-    "anthropic>=0.68.0",
 
     # Data validation
     "pydantic>=2.11.0",
