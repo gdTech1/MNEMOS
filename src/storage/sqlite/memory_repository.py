@@ -11,7 +11,7 @@ class MemoryNotFoundError(Exception):
         self.memory_id = memory_id
 
 class MemoryRepository:
-    def __init__(self, database: Database) -> None:
+    def __init__(self, database: Database):
         self._database = database
         self._database.initialize()
 
